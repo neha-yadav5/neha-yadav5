@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **Angularand ReactJs**
+- 💬 Ask me about **Angular and ReactJs**
 
-- 📫 How to reach me **nehayadav5412@gmail.com**
+- 📫 How to reach me **neha.yadav.works@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10bwUa12fbbZxAydQMeiDnES76RPxvwJM/view?usp=sharing](https://drive.google.com/file/d/10bwUa12fbbZxAydQMeiDnES76RPxvwJM/view?usp=sharing)
 
