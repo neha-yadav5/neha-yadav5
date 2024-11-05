@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **neha.yadav.works@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10bwUa12fbbZxAydQMeiDnES76RPxvwJM/view?usp=sharing](https://drive.google.com/file/d/10bwUa12fbbZxAydQMeiDnES76RPxvwJM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
